@@ -1,0 +1,15 @@
+.App {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+textarea {
+  height: 100px;
+  width: 300px;
+  border: 2px solid #000;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 20px;
+}
+.bold {
+  font-weight: bold;
+}
